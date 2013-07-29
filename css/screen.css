@@ -6,9 +6,51 @@ body {
 }
 
 h1 {
-    margin: 120px auto;
     font-family: 'Requiem Fine A', 'Requiem Fine B';
     font-weight: 400;
     font-style: normal;
     font-size: 96px;
+    line-height: 115px;
+    color: #433;
+    margin: 120px auto;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    border-top: 1px solid #333;
+    border-bottom: 4px double #333;
+    max-width: 70%;
+}
+
+@media screen and (min-width: 1280px) {
+    h1 {
+        font-size: 114px;
+        line-height: 137px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    h1 {
+        font-size: 72px;
+        line-height: 87px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    h1 {
+        font-size: 64px;
+        line-height: 77px;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    h1 {
+        max-width: 90%;
+    }
+}
+
+@media screen and (max-width: 420px) {
+    h1 {
+        font-size: 52px;
+        line-height: 62px;
+        max-width: 95%;
+    }
 }

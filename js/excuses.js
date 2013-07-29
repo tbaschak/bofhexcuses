@@ -19,7 +19,7 @@ function quoteMe(){
     quotes[14] = "It only looks bad if it's not on Retina.";
     quotes[15] = "Are you looking at it in IE or something?";
     quotes[16] = "That's not a recognised design pattern.";
-    quotes[17] = "No one told me it was supposed to work with this content.";
+    quotes[17] = "It wasn't designed to work with this content.";
     quotes[18] = "The users will never notice that.";
     quotes[19] = "The users might not notice it, but they'll feel it.";
     quotes[20] = "These brand guidelines are shit.";
