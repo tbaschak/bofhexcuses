@@ -1,0 +1,14 @@
+body {
+    background: #f0f0ea;
+    text-align: center;
+    margin: 0 10%;
+    font-size: 16px;
+}
+
+h1 {
+    margin: 120px auto;
+    font-family: 'Requiem Fine A', 'Requiem Fine B';
+    font-weight: 400;
+    font-style: normal;
+    font-size: 96px;
+}
