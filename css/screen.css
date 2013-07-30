@@ -6,7 +6,7 @@ body {
 }
 
 h1 {
-    font-family: 'Requiem Fine A', 'Requiem Fine B';
+    font-family: "Requiem Fine A", "Requiem Fine B", "Times New Roman", Times, serif;
     font-weight: 400;
     font-style: normal;
     font-size: 96px;
@@ -18,12 +18,16 @@ h1 {
     border-top: 1px solid #333;
     border-bottom: 4px double #333;
     max-width: 70%;
+    letter-spacing: -1px;
+    text-rendering: optimizeLegibility;
+    font-variant-ligatures: common-ligatures;
 }
 
 @media screen and (min-width: 1280px) {
     h1 {
         font-size: 114px;
         line-height: 137px;
+        max-width: 75%;
     }
 }
 
@@ -44,6 +48,7 @@ h1 {
 @media screen and (max-width: 640px) {
     h1 {
         max-width: 90%;
+        margin-top: 80px;
     }
 }
 
@@ -52,5 +57,25 @@ h1 {
         font-size: 52px;
         line-height: 62px;
         max-width: 95%;
+        margin-top: 60px;
     }
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+
+footer p {
+    font-family: "Times New Roman", Times, serif;
+    letter-spacing: 1px;
+    font-size: 16px;
+    color: #555;
+}
+
+footer a {
+    color: #555;
 }
