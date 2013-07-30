@@ -24,6 +24,11 @@ function quoteMe(){
     quotes[19] = "The users might not notice it, but they'll feel it.";
     quotes[20] = "These brand guidelines are shit.";
     quotes[21] = "You wouldn't get it, it's a design thing."
+    quotes[22] = "Jony wouldn't do it like this."
+    quotes[23] = "That's a dark pattern."
+    quotes[24] = "I don't think that's very user friendly."
+    quotes[25] = "That's not what the research says."
+    quotes[26] = "I didn't get a change request for that."
 
     var theQuote = quotes[Math.floor(Math.random() * quotes.length)];
 
