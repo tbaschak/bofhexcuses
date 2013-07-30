@@ -1,7 +1,7 @@
 body {
     background: #f0f0ea;
     text-align: center;
-    margin: 0 10%;
+    margin: 0 8%;
     font-size: 16px;
 }
 
@@ -9,18 +9,43 @@ h1 {
     font-family: "Requiem Fine A", "Requiem Fine B", "Times New Roman", Times, serif;
     font-weight: 400;
     font-style: normal;
-    font-size: 96px;
+    font-size: 86px;
     line-height: 115px;
-    color: #433;
-    margin: 100px auto;
+    color: rgb(70, 58, 58);
+    margin: 100px auto 60px;
     padding-top: 40px;
     padding-bottom: 60px;
     border-top: 1px solid #333;
     border-bottom: 4px double #333;
-    max-width: 70%;
+    max-width: 85%;
     letter-spacing: -1px;
     text-rendering: optimizeLegibility;
     font-variant-ligatures: common-ligatures;
+}
+
+#give_it_to_me {
+    font-family: 'Requiem Text A', 'Requiem Text B', "Times New Roman", Times, serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: rgba(70, 58, 58, 0.8);
+    border-bottom: 1px solid rgba(70, 58, 58, 0.4);
+    padding-bottom: 2px;
+    text-shadow: 0px 0px 0px rgba(70, 58, 58, 0.0);
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    -ms-transition: all 0.2s ease-out;
+    -o-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+}
+
+#give_it_to_me:hover, #give_it_to_me:focus {
+    color: rgba(70, 58, 58, 1.0);
+    padding-bottom: 0px;
+    border-bottom: 1px solid rgba(70, 58, 58, 0.5);
+    text-shadow: 0px 4px 8px rgba(70, 58, 58, 0.4);
 }
 
 @media screen and (min-width: 1280px) {
