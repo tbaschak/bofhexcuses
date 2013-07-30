@@ -14,7 +14,7 @@ function quoteMe(){
     quotes[9] = "That's way too flat.";
     quotes[10] = "Just put a long shadow on it.";
     quotes[11] = "It wasn't designed for that kind of content.";
-    quotes[12] = "Josef Müller-Brockmann would turn over in his grave.";
+    quotes[12] = "Josef Müller-Brockmann.";
     quotes[13] = "That must be a server thing.";
     quotes[14] = "It only looks bad if it's not on Retina.";
     quotes[15] = "Are you looking at it in IE or something?";
@@ -23,8 +23,9 @@ function quoteMe(){
     quotes[18] = "The users will never notice that.";
     quotes[19] = "The users might not notice it, but they'll feel it.";
     quotes[20] = "These brand guidelines are shit.";
+    quotes[21] = "You wouldn't get it, it's a design thing."
 
-    theQuote = quotes[Math.floor(Math.random() * quotes.length)];
+    var theQuote = quotes[Math.floor(Math.random() * quotes.length)];
 
     document.getElementById("drop_the_knowledge").innerHTML = theQuote;
 }
