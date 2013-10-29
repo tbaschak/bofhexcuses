@@ -4,6 +4,9 @@
     "Problem with upstream.",
     "No, 'Google' is not 'the Internet'.",
     "Sunspots.",
+    "CDN cache problem.",
+    "IX made random changes.",
+    "Pissed Off the Sysadmin.",
     "Solar Flares.",
     "Have you tried rebooting your firewall?"
   ];
