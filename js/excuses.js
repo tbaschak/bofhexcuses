@@ -9,6 +9,7 @@
     "DNS cache problem.",
     "No, 'Google' is not 'the Internet'.",
     "Sunspots.",
+    "Yes, your 4-year old router is slowing down your Internets.",
     "CDN problem.",
     "CDN upstream problem.",
     "IX made random daytime changes.",
