@@ -2,8 +2,9 @@
 
   var quotes = [
     "New Apple OS release clogged the pipes.",
-    "No a router is not the same as a firewall.",
+    "No, a router is not the same as a firewall.",
     "Upstream problem.",
+    "Updates broke email.",
     "CLEC inbound problem.",
     "CLEC DTMF problem.",
     "MTS routing problem.",
