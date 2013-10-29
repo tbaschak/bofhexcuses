@@ -2,6 +2,7 @@
 
   var quotes = [
     "Could you give us the EXACT ERROR MESSAGE? 'email doesn't work' tells us nothing.",
+    "Apple released a new major iPhone/iPod/iPad update and clogged the pipes.",
     "Problem with upstream.",
     "Asymmetrical routing.",
     "Upstream peering changes.",
