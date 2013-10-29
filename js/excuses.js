@@ -14,8 +14,9 @@
     "IX made random daytime changes.",
     "Pissed Off the Sysadmin.",
     "Solar Flares.",
+    "Area wide power outage.",
     "Have you ever patched your firewall?",
-    "Have you rebooted your firewall?"
+    "Have you rebooted your firewall recently?"
   ];
 
   var theQuote = quotes[Math.floor(Math.random() * quotes.length)];
