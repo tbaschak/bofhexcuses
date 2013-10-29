@@ -1,6 +1,6 @@
 # BOFH Excuses
 
-** Excuses for sys admins **
+## Excuses for sys admins ##
 
 actual contents in gh-pages branch
 
