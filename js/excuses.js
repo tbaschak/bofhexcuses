@@ -3,6 +3,8 @@
   var quotes = [
     "New Apple OS release clogged the pipes.",
     "Upstream problem.",
+    "CLEC inbound problem.",
+    "CLEC DTMF problem.",
     "MTS routing problem.",
     "Asymmetrical routing problem.",
     "Upstream peering changes.",
