@@ -2,6 +2,7 @@
 
 ** Excuses for sys admins **
 
+actual contents in gh-pages branch
 
 * * *
 
