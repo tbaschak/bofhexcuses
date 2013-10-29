@@ -7,6 +7,7 @@
     "Fibers dirty.",
     "Buffers bloated.",
     "The Cloud. Giving your data directly to the NSA.",
+    "iCloud. Giving your data directly to the NSA.",
     "Upstream problem.",
     "Updates broke email.",
     "CLEC inbound problem.",
