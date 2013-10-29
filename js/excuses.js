@@ -4,6 +4,7 @@
     "New Apple OS release clogged the pipes.",
     "No, a router is not the same as a firewall.",
     "Last-mile connectivity apparently being delivered by ADHD squirrel.",
+    "Lovely. No contact info.",
     "Fibers dirty.",
     "Your website is distributing malware.",
     "Buffers bloated.",
