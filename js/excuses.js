@@ -1,6 +1,7 @@
 (function(d){
 
   var quotes = [
+    "Could you give me the EXACT ERROR MESSAGE? 'email doesn't work' tells us nothing.",
     "Problem with upstream.",
     "Asymmetrical routing.",
     "No, 'Google' is not 'the Internet'.",
