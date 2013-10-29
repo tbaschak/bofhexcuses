@@ -3,6 +3,9 @@
   var quotes = [
     "New Apple OS release clogged the pipes.",
     "No, a router is not the same as a firewall.",
+    "Fibers dirty.",
+    "Buffers bloated.",
+    "The Cloud. Giving your data directly to the NSA.",
     "Upstream problem.",
     "Updates broke email.",
     "CLEC inbound problem.",
