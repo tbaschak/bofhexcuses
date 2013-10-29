@@ -2,6 +2,7 @@
 
   var quotes = [
     "Problem with upstream.",
+    "Asymmetrical routing.",
     "No, 'Google' is not 'the Internet'.",
     "Sunspots.",
     "CDN cache problem.",
