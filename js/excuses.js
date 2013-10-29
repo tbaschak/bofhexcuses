@@ -1,7 +1,6 @@
 (function(d){
 
   var quotes = [
-    "Please supply the EXACT ERROR MESSAGE! 'email doesn't work' tells nothing.",
     "New Apple OS release clogged the pipes.",
     "Upstream problem.",
     "MTS routing problem.",
@@ -16,7 +15,7 @@
     "Apparently you pissed-off the Sysadmin.",
     "Solar Flares.",
     "Area wide power outage.",
-    "Have you ever patched your firewall?",
+    "Have you ever updated your firewall?",
     "Have you rebooted your firewall recently?"
   ];
 
