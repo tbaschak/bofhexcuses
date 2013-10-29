@@ -5,6 +5,7 @@
     "Problem with upstream.",
     "Asymmetrical routing.",
     "Upstream made peering changes.",
+    "DNS cache problem.",
     "No, 'Google' is not 'the Internet'.",
     "Sunspots.",
     "CDN cache problem.",
