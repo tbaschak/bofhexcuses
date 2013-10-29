@@ -3,7 +3,7 @@
   var quotes = [
     "New Apple OS release clogged the pipes.",
     "No, a router is not the same as a firewall.",
-    "Last-mile connectivity apparently being delivered by ADD squirrel.",
+    "Last-mile connectivity apparently being delivered by ADHD squirrel.",
     "Fibers dirty.",
     "Buffers bloated.",
     "The Cloud. Giving your data directly to the NSA.",
