@@ -1,6 +1,7 @@
 (function(d){
 
   var quotes = [
+    "<Insert Lame Excuse Here>.",
     "New Apple OS release clogged the pipes.",
     "No, a router is not the same as a firewall.",
     "Last-mile connectivity apparently being delivered by ADHD squirrel.",
