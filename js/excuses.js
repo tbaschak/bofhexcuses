@@ -1,14 +1,15 @@
 (function(d){
 
   var quotes = [
-    "&gt;Insert Lame Excuse Here&lt;.",
+    "&lt;Insert Lame Excuse Here&gt;.",
+    "Bufferbloat.",
     "New Apple OS release clogged the pipes.",
     "No, a router is not the same as a firewall.",
     "Last-mile connectivity apparently being delivered by ADHD squirrel.",
     "Lovely. No contact info.",
     "Fibers dirty.",
     "Your website is distributing malware.",
-    "Buffers over bloated.",
+    "Buffers bloated over capacity.",
     "The Cloud. Just give your data directly to the NSA.",
     "iCloud. Just give your data directly to the NSA.",
     "Upstream problem.",
